@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="FTCLV2.ino" />
+    <None Include="Functions.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Visual Micro\.FTCLV2.vsarduino.h">

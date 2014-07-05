@@ -51,5 +51,6 @@ uint32_t Wheel(byte WheelPos);
 
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino\arduino.h"
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\variants\standard\pins_arduino.h" 
-#include "F:\gDrive\Sketches and libraries\FTCLV2\FTCLV2.ino"
+#include "F:\MyRepo\FTCLV2\FTCLV2.ino"
+#include "F:\MyRepo\FTCLV2\Functions.ino"
 #endif
