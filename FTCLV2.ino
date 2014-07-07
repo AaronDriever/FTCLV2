@@ -92,7 +92,7 @@ void setup() {
 	//Serial.begin(19200);
 	// don't want to lose characters if interrupt handler too long
 	// serial interrupt handler can't run so arduino input buffer length is no help
-	Serial.begin(9600);
+	Serial.begin(115200);
 
 
 	strip.begin();
