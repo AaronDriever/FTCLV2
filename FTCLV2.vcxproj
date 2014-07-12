@@ -71,7 +71,9 @@
     <None Include="FTCLV2.ino">
       <FileType>CppCode</FileType>
     </None>
-    <None Include="Functions.ino" />
+    <None Include="Functions.ino">
+      <FileType>CppCode</FileType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Visual Micro\.FTCLV2.vsarduino.h" />
