@@ -144,7 +144,8 @@ void loop(){
 		// got a command so parse it
 		process_command(readBuffer,readCount);
 	} 
-	else {
+	else 
+	{
 		// while look exited because too many characters so start over
 	}
 }
